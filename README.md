@@ -9,8 +9,8 @@
 ---
 
 ### 🔧 Technologies & Tools
-- Frontend: Angular, HTML, CSS, TypeScript
-- Backend: Java (Spring Boot), MySQL
+- Frontend: Angular, HTML, CSS, TypeScript ,javascript ,React js ,bootstrap
+- Backend: Java (Spring Boot), MySQL , Php ,express js 
 - Tools: Git, GitHub, VS Code, Postman
 
 ---
