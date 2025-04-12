@@ -2,7 +2,7 @@
 
 🎓 Student at the Specialized Institute in Offshoring Professions, Tetouan  
 💻 Passionate about web development and software engineering  
-🌐 Currently working on: [quote-generator](https://github.com/MOHAMED-ELBAKKALI/quote-generator) (Angular + Java backend)  
+🌐 Currently working on: [quote-generator](https://github.com/MOHAMED-ELBAKKALI/quote-generator-full) (Angular + Java backend)  
 📫 Reach me at: mohamedelbakkali590@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-el-bakkali-26a261348) | [Instagram](https://www.instagram.com/mohamed.elbakkali_)
 
@@ -18,8 +18,8 @@
 ### 🚀 Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [quote-generator](https://github.com/MOHAMED-ELBAKKALI/quote-generator) | Web app for creating and managing quotes | Angular |
-| [quote-gene-backend](https://github.com/MOHAMED-ELBAKKALI/quote-gene-backend) | Backend API for quote generator | Java + Spring Boot |
+| [quote-generator](https://github.com/MOHAMED-ELBAKKALI/quote-generator-full) | Web app for creating and managing quotes | Angular & spring boot |
+
 
 ---
 
