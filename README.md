@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Mohamed El Bakkali</h1>
 
 <p align="center">
-🎓 Student at the Specialized Institute in Offshoring Professions, Tetouan  
-💻 Passionate about web development and software engineering  
-🌐 Currently working on: <a href="https://github.com/MOHAMED-ELBAKKALI/quote-generator-full">Quote Generator</a> (Angular + Java backend)  
-📫 Reach me at: <a href="mailto:mohamedelbakkali590@gmail.com">mohamedelbakkali590@gmail.com</a>  
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-el-bakkali-26a261348">LinkedIn</a> •
-  <a href="https://www.instagram.com/mohamed.elbakkali_">Instagram</a>
+🎓 Student at the Specialized Institute in Offshoring Professions, Tetouan<br>
+💻 Passionate about web development and software engineering<br>
+🌐 Currently working on: <a href="https://github.com/MOHAMED-ELBAKKALI/quote-generator-full">Quote Generator</a> (Angular + Java backend)<br>
+📫 <a href="mailto:mohamedelbakkali590@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-el-bakkali-26a261348"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.instagram.com/mohamed.elbakkali_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
