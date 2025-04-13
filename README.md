@@ -45,7 +45,7 @@
 |--------|-------------|------------|
 | [quote-generator](https://github.com/MOHAMED-ELBAKKALI/quote-generator-full) | A web app for creating and managing quotes | Angular + Spring Boot |
 | [simple-calculator](https://github.com/MOHAMED-ELBAKKALI/simple-calculator) | A fun and creative calculator built with plain HTML, CSS, and JS – includes error handling and retro pixel style! | JavaScript + HTML + CSS |
-
+| [coffee-shop] (https://github.com/MOHAMED-ELBAKKALI/CoffeeShop.git) | A creative and responsive template for a coffee shop | Javascript + HTML + CSS | 
 ---
 
 ### 📊 GitHub Stats
