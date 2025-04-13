@@ -31,7 +31,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
@@ -40,11 +39,12 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [quote-generator](https://github.com/MOHAMED-ELBAKKALI/quote-generator-full) | A web app for creating and managing quotes | Angular + Spring Boot |
+| [simple-calculator](https://github.com/MOHAMED-ELBAKKALI/simple-calculator) | A fun and creative calculator built with plain HTML, CSS, and JS – includes error handling and retro pixel style! | JavaScript + HTML + CSS |
 
 ---
 
